@@ -1,7 +1,7 @@
 # Black Citadel
-**Unified observability platform for your distributed applications.**
+**Streamline your observability with our unified platform, purpose-built for distributed applications.**
 
-Our native support for the OpenTelemetry Protocol makes it easier to ingest your data in a truly vendor-neutral way.
+Our seamless integration with the OpenTelemetry Protocol ensures that data ingestion is not only easier, but also vendor-neutral.
 
 ---
 
